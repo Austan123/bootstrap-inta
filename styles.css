@@ -1,0 +1,36 @@
+.body{
+    background: grey solid;
+}
+.container-fluid{
+    background: transparent grey;
+    
+}
+.d-flex{
+    color: blue;
+}
+
+.comment1{
+    position: relative;
+    right: 54rem;
+    top: 0.5rem;
+}
+.comment2{
+    position: relative;
+    right: 54rem;
+    top: 0.5rem;
+}
+.comment3{
+    position: relative;
+    right: 54rem;
+    top: 0.5rem;
+}
+
+.home-tab {
+    background-color: rgb(5, 4, 4);
+    border-radius: 1rem;
+}
+
+.profile-tab {
+    background-color: black;
+    border-radius: 1rem;
+}
